@@ -1,0 +1,10 @@
+{
+  "name": "nitro-app",
+  "scripts": {
+    "dev": "nitro dev",
+    "build": "nitro build"
+  },
+  "dependencies": {
+    "nitropack": "^2.3.3"
+  }
+}
